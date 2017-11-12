@@ -1,0 +1,28 @@
+C:\AutomationTestProjects\Selenium\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\bin\Debug\chromedriver.exe
+C:\AutomationTestProjects\Selenium\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\bin\Debug\SeleniumUtilities.dll
+C:\AutomationTestProjects\Selenium\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\bin\Debug\SeleniumUtilities.pdb
+C:\AutomationTestProjects\Selenium\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\bin\Debug\WebDriver.dll
+C:\AutomationTestProjects\Selenium\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\bin\Debug\WebDriver.Support.dll
+C:\AutomationTestProjects\Selenium\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\bin\Debug\WebDriver.xml
+C:\AutomationTestProjects\Selenium\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\bin\Debug\WebDriver.Support.xml
+C:\AutomationTestProjects\Selenium\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\obj\Debug\selenium.utilities.csprojResolveAssemblyReference.cache
+C:\AutomationTestProjects\Selenium\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\obj\Debug\SeleniumUtilities.dll
+C:\AutomationTestProjects\Selenium\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\obj\Debug\SeleniumUtilities.pdb
+C:\AutomationTestProjects\Selenium\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\bin\Debug\SeleniumUtilities.dll.config
+C:\AutomationTestProjects\AutomationTestCode\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\bin\Debug\chromedriver.exe
+C:\AutomationTestProjects\AutomationTestCode\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\bin\Debug\SeleniumUtilities.dll.config
+C:\AutomationTestProjects\AutomationTestCode\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\bin\Debug\SeleniumUtilities.dll
+C:\AutomationTestProjects\AutomationTestCode\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\bin\Debug\SeleniumUtilities.pdb
+C:\AutomationTestProjects\AutomationTestCode\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\bin\Debug\WebDriver.dll
+C:\AutomationTestProjects\AutomationTestCode\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\bin\Debug\WebDriver.Support.dll
+C:\AutomationTestProjects\AutomationTestCode\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\bin\Debug\WebDriver.xml
+C:\AutomationTestProjects\AutomationTestCode\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\bin\Debug\WebDriver.Support.xml
+C:\AutomationTestProjects\AutomationTestCode\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\obj\Debug\selenium.utilities.csprojResolveAssemblyReference.cache
+C:\AutomationTestProjects\AutomationTestCode\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\obj\Debug\SeleniumUtilities.dll
+C:\AutomationTestProjects\AutomationTestCode\ebuero.de\Main Structure\Test Case 00-0001\selenium.utilities\obj\Debug\SeleniumUtilities.pdb
+C:\AutomationTestProjects\AutomationTestCode\selenium.utilities\bin\Debug\chromedriver.exe
+C:\AutomationTestProjects\AutomationTestCode\selenium.utilities\bin\Debug\WebDriver.xml
+C:\AutomationTestProjects\AutomationTestCode\selenium.utilities\bin\Debug\WebDriver.Support.xml
+C:\AutomationTestProjects\AutomationTestCode\selenium.utilities\obj\Debug\selenium.utilities.csprojResolveAssemblyReference.cache
+C:\AutomationTestProjects\AutomationTestCode\selenium.utilities\obj\Debug\SeleniumUtilities.dll
+C:\AutomationTestProjects\AutomationTestCode\selenium.utilities\obj\Debug\SeleniumUtilities.pdb
